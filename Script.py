@@ -244,12 +244,12 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}\n\n𝖩𝗈𝗂𝗇 ➥ 「<a href="https://t.me/cineoriginals">𝘾𝙄𝙉𝙀𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇𝙎</a>」
-
+    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : @Hindi_movie_uplod {file_name}
+    
 <b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
 
     IMDB_TEMPLATE_TXT = """
-<b>Query: {qurey} by [@akmoviebotz]
+<b>Query: {qurey}
 
 IMDb Data:
 
@@ -265,7 +265,7 @@ IMDb Data:
 
 ⏰Result Shown in: {remaining_seconds} <i>seconds</i> 🔥
 
-Requested by : {message.from_user.mention} FROM [@akmoviebotz]</b>"""
+Requested by : {message.from_user.mention} </b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -522,7 +522,7 @@ Hey <a href='tg://settings'>ᴍʏ ғʀɪᴇɴᴅ</a>
 
  Step 2: Add your website and API
 
- Exp: /shortlink xtz.in 4b392f8eb6ad711be58
+ Exp: /shortlink shortxlinks.com 95c90443f0324be097970c3f704e16eca7116c81
 
  Add a video
 
@@ -549,7 +549,7 @@ Also your tutorial will be Added Your Group..."""
 
  దశ 2: మీ వెబ్‌సైట్ మరియు APIని జోడించండి
 
- గడువు: /shortlink xtz.in 4b392f8e6ad711fbe58
+ గడువు: /shortlink shortxlinks.com 95c90443f0324be097970c3f704e16eca7116c81
 
  వీడియోను జోడించండి
 
@@ -576,7 +576,7 @@ Also your tutorial will be Added Your Group..."""
 
  चरण 2: अपनी वेबसाइट और एपीआई जोड़ें
 
- एक्सप: /shortlink xtz.in 4b392f8ebad711fbe58
+ एक्सप: /shortlink shortxlinks.com 95c90443f0324be097970c3f704e16eca7116c81
 
  एक वीडियो जोड़ें
 
@@ -603,7 +603,7 @@ Also your tutorial will be Added Your Group..."""
 
  ഘട്ടം 2: നിങ്ങളുടെ വെബ്‌സൈറ്റും API-യും ചേർക്കുക
 
- കാലഹരണപ്പെടൽ: /shortlink xtz.in 4b392f8eb6ad11fbe58
+ കാലഹരണപ്പെടൽ: /shortlink shortxlinks.com 95c90443f0324be097970c3f704e16eca7116c81
 
  ഒരു വീഡിയോ ചേർക്കുക
 
@@ -630,7 +630,7 @@ Also your tutorial will be Added Your Group..."""
 
  مرحلہ 2: اپنی ویب سائٹ اور API شامل کریں۔
 
- Exp: /shortlink xtz.in 4b392f8eb6a711fbe58
+ Exp: /shortlink shortxlinks.com 95c90443f0324be097970c3f704e16eca7116c81
 
  ایک ویڈیو شامل کریں۔
 
@@ -657,7 +657,7 @@ Also your tutorial will be Added Your Group..."""
 
  પગલું 2: તમારી વેબસાઇટ અને API ઉમેરો
 
- સમાપ્તિ: /shortlink xtz.in 4b392f8eb6ad11fbe58
+ સમાપ્તિ: /shortlink shortxlinks.com 95c90443f0324be097970c3f704e16eca7116c81
 
  વિડિઓ ઉમેરો
 
@@ -683,7 +683,7 @@ Also your tutorial will be Added Your Group..."""
 
  ಹಂತ 2: ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಮತ್ತು API ಸೇರಿಸಿ
 
- ಅವಧಿ: /shortlink xtz.in 4b392f8eb6d711fbe58
+ ಅವಧಿ: /shortlink shortxlinks.com 95c90443f0324be097970c3f704e16eca7116c81
 
  ವೀಡಿಯೊ ಸೇರಿಸಿ
 
@@ -709,7 +709,7 @@ Also your tutorial will be Added Your Group..."""
 
  ধাপ 2: আপনার ওয়েবসাইট এবং API যোগ করুন
 
- মেয়াদ: /shortlink xtz.in 4b392f8eb6ad71fbe58
+ মেয়াদ: /shortlink shortxlinks.com 95c90443f0324be097970c3f704e16eca7116c81
 
  একটি ভিডিও যোগ করুন
 
